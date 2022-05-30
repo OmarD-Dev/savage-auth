@@ -1,6 +1,6 @@
 // config/database.js
-module.exports = {
+module.exports = { //exporting an object
 
-    'url' : 'mongodb+srv://demo:demo@cluster0.q2ojb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', 
-    'dbName': 'demo'
+    'url' : 'mongodb+srv://21sav:savage@cluster0.zq7jy.mongodb.net/savageauth?retryWrites=true&w=majority', 
+    'dbName': 'messages'
 };
